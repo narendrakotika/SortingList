@@ -21,20 +21,8 @@ public class Program
         // Display sorted product details
         productManager.DisplayProducts();
 
-        // Search for a product by name
-        Console.Write("Enter product name to search: ");
-        string searchProductName = Console.ReadLine();
 
-        Product foundProduct = productManager.SearchProduct(searchProductName);
-
-        if (foundProduct != null)
-        {
-            Console.WriteLine($"Product found: {foundProduct.PName}, Price: {foundProduct.PPrice}, Brand: {foundProduct.PBrand}, Manufacturing Date: {foundProduct.ManufacturingDate}, Expiry Date: {foundProduct.ExpiryDate}");
-        }
-        else
-        {
-            Console.WriteLine("Product not found.");
-        }
+       
     }
 }
 
@@ -78,13 +66,5 @@ public class ProductManager
         }
     }
 
-    public Product SearchProduct(string productName)
-    {
-        if (productList.ContainsKey(productName))
-        {
-            return productList[productName];
-        }
-
-        return null;
-    }
+  
 }

@@ -12,3 +12,4 @@ C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssig
 C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ProductsAppAssignment4.pdb
 C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ProductsAppAssignment4.genruntimeconfig.cache
 C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ref\ProductsAppAssignment4.dll
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ProductsAppAssignment4.sourcelink.json
