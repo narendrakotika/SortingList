@@ -1,0 +1,14 @@
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\bin\Debug\net6.0\ProductsAppAssignment4.exe
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\bin\Debug\net6.0\ProductsAppAssignment4.deps.json
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\bin\Debug\net6.0\ProductsAppAssignment4.runtimeconfig.json
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\bin\Debug\net6.0\ProductsAppAssignment4.dll
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\bin\Debug\net6.0\ProductsAppAssignment4.pdb
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ProductsAppAssignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ProductsAppAssignment4.AssemblyInfoInputs.cache
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ProductsAppAssignment4.AssemblyInfo.cs
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ProductsAppAssignment4.csproj.CoreCompileInputs.cache
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ProductsAppAssignment4.dll
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\refint\ProductsAppAssignment4.dll
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ProductsAppAssignment4.pdb
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ProductsAppAssignment4.genruntimeconfig.cache
+C:\Users\KOTIKA SAIDAIAH\Desktop\Phase-4\ProductsAppAssignment4\ProductsAppAssignment4\obj\Debug\net6.0\ref\ProductsAppAssignment4.dll
